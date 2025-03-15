@@ -1,0 +1,15 @@
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\bin\Debug\net8.0\SerializationLab.exe
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\bin\Debug\net8.0\SerializationLab.deps.json
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\bin\Debug\net8.0\SerializationLab.runtimeconfig.json
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\bin\Debug\net8.0\SerializationLab.dll
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\bin\Debug\net8.0\SerializationLab.pdb
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.AssemblyInfoInputs.cache
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.AssemblyInfo.cs
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.csproj.CoreCompileInputs.cache
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.sourcelink.json
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.dll
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\refint\SerializationLab.dll
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.pdb
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\SerializationLab.genruntimeconfig.cache
+C:\Users\mhmdj\source\repos\SerializationLab\SerializationLab\obj\Debug\net8.0\ref\SerializationLab.dll
